@@ -1,6 +1,6 @@
 Dijital çağda, güvenlik her zamankinden daha önemli hale gelmiştir. İnternet üzerindeki hesaplarımızı korumak, kişisel bilgilerimizi ve gizliliğimizi sağlamak için, güçlü parolalar kullanmak oldukça kritik bir adımdır.
 
-<h4>Güçlü Parolaların İçermesi Gereken Özellikler:</h4>
+<h2>Güçlü Parolaların İçermesi Gereken Özellikler:</h2>
 
 <b>Uzunluk:</b> Parolaların mümkünse en az <b>12</b> karakter uzunluğunda olması önerilir. Uzun parolalar, bruteforce saldırılarına karşı daha dayanıklıdır.
 
